@@ -28,10 +28,10 @@ from matplotlib.colors import LinearSegmentedColormap
 # Generate colormap through matplotlib
 newCmap = LinearSegmentedColormap.from_list("", ['#c4cfd4','#3345ea'])
 explainer = shap.Explainer(model, X)
-#shap_values = explainer.shap_values(X,check_additivity=True)
-#sv=explainer(X)
+shap_values = explainer.shap_values(X,check_additivity=True)
+sv=explainer(X)
 #shap.plots.bar(sv)
-#shap.summary_plot(shap_values, X) # ['viridis', 'plasma', 'inferno', 'magma', 'cividis'])
+shap.summary_plot(shap_values, X) # ['viridis', 'plasma', 'inferno', 'magma', 'cividis'])
 #shap.force_plot(explainer.expected_value, shap_values,show=False,link='logit') 
 #shap.decision_plot(explainer.expected_value, shap_values)
 
@@ -57,3 +57,4 @@ plt.ylabel(" Strain capacity (%)",font='Times New Roman',size=18)
 #plt.xlim(50,250)
 plt.savefig('Effect of gauge length.JPG', dpi=500, bbox_inches = 'tight')
 plt.show()
+
