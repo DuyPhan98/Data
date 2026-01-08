@@ -14,3 +14,9 @@
 - To experimentally validate the developed ML mode.
 
 ### Implementation details for Reproducibility
+-Python version: 3.10.
+-Package versions: numpy == X.Y.Z; pandas == X.Y.Z; scikit-learn == X.Y.Z; matplotlib == X.Y.Z; seaborn == X.Y.Z.
+-Random seeds: All random processes used a fixed seed of 42.
+-Data were split into 70/30 train/test sets.
+-Cross-validation: number of folds: K = 10.
+-Bayesian Optimization configuration: Bayesian optimization was performed using Optuna v3.5.0 for 100 trials
