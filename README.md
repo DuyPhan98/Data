@@ -4,7 +4,7 @@
 
 ### Author:
 - **Tan Duy PHAN, Van Thong NGUYEN, Dong Joo KIM**  
-  Email: tanduy05081998@gmail.com.
+  - Email: tanduy05081998@gmail.com.
   - Corresponding author: djkim75@hanyang.ac.kr; Telephone: +82 02 2220 0413.
   - Department of Civil and Environmental Engineering, Hanyang University, 222, Wangsimni-ro, Seongdong-gu, Seoul 04763, Republic of Korea.
 
