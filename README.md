@@ -1,6 +1,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-# AIStructDynSolve
+# Machine learning-based prediction of ductility of strain-hardening fiber-reinforced cementitious composites 
 
 ### Author:
 - **Ke Du(&#x675C;&#x8F72;)**  
