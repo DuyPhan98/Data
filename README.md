@@ -4,9 +4,9 @@
 
 ### Author:
 - **Tan Duy PHAN, Van Thong NGUYEN, Dong Joo KIM**  
-  Email: tanduy05081998@gmail.com
-  Corresponding author: djkim75@hanyang.ac.kr; Telephone: +82 02 2220 0413
-  Department of Civil and Environmental Engineering, Hanyang University, 222, Wangsimni-ro, Seongdong-gu, Seoul 04763, Republic of Korea
+  Email: tanduy05081998@gmail.com.
+  - Corresponding author: djkim75@hanyang.ac.kr; Telephone: +82 02 2220 0413.
+  - Department of Civil and Environmental Engineering, Hanyang University, 222, Wangsimni-ro, Seongdong-gu, Seoul 04763, Republic of Korea.
 
 AIStructDynSolve is an artificial intelligence (AI) powered framework designed to solve both forward and inverse problems in structural dynamics. 
 It leverages advanced artificial intelligence methods - particularly physics-informed neural networks (PINNs), Physics-Informed Kolmogorov-Arnold Network(PIKANs) and their extensions - to model, predict, and analyze dynamic structural responses under various loading scenarios, such as seismic excitations.
