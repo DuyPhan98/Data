@@ -13,7 +13,7 @@
 - To determine the effects of input parameters on both strain capacity and crack spacing of SH-FRCCs using SHAP and PDP.
 - To experimentally validate the developed ML mode.
 
-### Implementation details for Reproducibility
+### Implementation details for reproducibility
 - Python version: 3.10.
 - Package versions: numpy == 2.2.6; pandas == 2.3.3; scikit-learn == 1.7.2; matplotlib == 3.10.7; seaborn == 0.13.2; shap == 0.49.1; PDPbox == 0.2.0.
 - Random seeds: All random processes used a fixed seed of 42.
