@@ -15,7 +15,7 @@
 
 ### Implementation details for Reproducibility
 - Python version: 3.10.
-- Package versions: numpy == X.Y.Z; pandas == X.Y.Z; scikit-learn == X.Y.Z; matplotlib == X.Y.Z; seaborn == X.Y.Z.
+- Package versions: numpy == 2.2.6; pandas == X.Y.Z; scikit-learn == X.Y.Z; matplotlib == X.Y.Z; seaborn == X.Y.Z; shap == x.y.z; PDPbox ==
 - Random seeds: All random processes used a fixed seed of 42.
 - Data were split into 70/30 train/test sets.
 - Cross-validation: number of folds: K = 10.
